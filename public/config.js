@@ -1,0 +1,1 @@
+var server_url = "https://api.elemer.es/carmesyes/routes/proxy_request.php?port=8000&id=2"
